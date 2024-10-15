@@ -41,7 +41,7 @@ shopping(): Handles the customer’s shopping process, including item selection 
 checkStock(): Checks if the requested quantity is available in stock.\
 calcTotal(): Calculates the total cost with taxes and discounts.\
 discount(): Applies discounts based on military or student status.\
-printReceipt(): Prints the final receipt with a breakdown of items bought and the total cost.
+printReceipt(): Prints the final receipt with a breakdown of items bought and the total cost.\
 **Additional Utility Functions:**\
 randRange(): Generates a random double between a given range.\
 isMilitary(): Asks if the customer is in the military to apply discounts.\
